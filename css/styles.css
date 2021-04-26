@@ -5,6 +5,7 @@ body {
 
 .top-container {
   background-color: #94b5c0;
+  padding-top: 10%;
 }
 
 .middle-container {
@@ -19,6 +20,15 @@ body {
 }
 
 h1 {
-  margin-block-start: 0ch;
-  margin-block-end: 0px;
+  margin-top: 0%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+}
+.top-cloud {
+  position: absolute;
+  right: 30%;
+  top: 5%;
 }
